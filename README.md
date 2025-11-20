@@ -1,12 +1,10 @@
 # 🌱 KidInvest - Investment Education App for Children
 
-A Progressive Web App (PWA) that teaches school-age children (7-12 years) about compound interest and investing through daily visualization of their growing savings.
+A Progressive Web App (PWA) that teaches school-age children  about compound interest and investing through daily visualization of their growing savings.
 
 ## 📋 Overview
 
 KidInvest helps parents introduce financial literacy concepts to their children by showing how investments grow over time. Built with simplicity and educational value in mind, the app displays daily, weekly, and monthly gains to make compound interest tangible and exciting for young minds.
-
-**Inspired by:** [D-iNvestments by Roberdam](https://roberdam.com/en/dinversiones.html)
 
 ## ✨ Features
 
@@ -83,14 +81,14 @@ For daily calculations, we use daily compounding (n = 365).
 
 ## 🗺️ Roadmap
 
-**Phase 1 (Weeks 1-4)** ✅
+**Phase 1 
 - [x] Core UI components
 - [x] Configuration screen
 - [x] Dashboard with real-time calculations
 - [x] PWA setup with offline support
 - [x] localStorage implementation
 
-**Phase 2 (Weeks 5-12)** 🚧
+**Phase 2 
 - [ ] Firebase integration
 - [ ] User authentication
 - [ ] Multi-child management
@@ -98,22 +96,7 @@ For daily calculations, we use daily compounding (n = 365).
 - [ ] Goal setting feature
 - [ ] Data migration from Phase 1
 
-**Phase 3 (Future)** 📅
-- [ ] Mobile app (React Native)
-- [ ] Gamification elements
-- [ ] Educational content library
-- [ ] Parent-child messaging
-- [ ] Multi-currency support
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -124,12 +107,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Original concept by [Roberdam](https://roberdam.com/en/dinversiones.html)
 - Inspired by the need for early financial literacy education
 - Built with modern web technologies for accessibility
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/kidinvest](https://github.com/yourusername/kidinvest)
 
 ---
 
